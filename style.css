@@ -15,6 +15,9 @@ body {
   flex-direction: column;
   color: aqua;
 }
+h1{
+color:wheat;
+}
 
 input {
   padding: 1rem;
@@ -57,6 +60,7 @@ input:focus {
   text-align: center;
   font-size: 2rem;
 }
+
 
 .weather h2 {
   margin-bottom: 0;
